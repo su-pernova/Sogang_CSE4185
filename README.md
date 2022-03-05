@@ -4,10 +4,10 @@
 **PJ01** : Maze Game
 > BFS와 A*(A star) Algorithm을 활용한 최단 경로 찾기
 
-**PJ02** : Pacman
+**PJ02** : Pacman Game
 > Adversarial Search를 활용하여 Pacman Game 구현하기
 
-**PJ03** : Logic
+**PJ03** : From Sentence to Logic
 > 제시된 문장들을 logic으로 변경하는 프로그램 작성하기
 
 **PJ04** : Neural Network
